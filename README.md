@@ -9,9 +9,12 @@ The bilingual_book_maker is an AI translation tool that uses ChatGPT to assist u
 ## Preparation
 
 1. ChatGPT or OpenAI token
-2. prepared epub books
-3. Environment with internet access or proxy
-4. python3.8+
+
+
+hh
+3. prepared epub books
+4. Environment with internet access or proxy
+5. python3.8+
 
 
 ## Use
